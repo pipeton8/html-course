@@ -1,0 +1,35 @@
+body {
+  color: #eeeeee;
+  background-color: #222831;
+}
+
+hr {
+  border-color: #393e46;
+  border-style: dotted none none;
+  border-top-width: 4px;
+  width: 10%;
+}
+
+p {
+  text-align: justify;
+}
+
+a:link {
+  color: #eeeeee;
+}
+
+a:visited {
+  color: #eeeeee;
+}
+
+h1 {
+  color: #00adb5;
+}
+
+h2 {
+  color: #00adb5;
+}
+
+h3 {
+  color: #00adb5;
+}
